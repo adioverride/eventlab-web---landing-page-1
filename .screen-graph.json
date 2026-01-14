@@ -1,0 +1,1 @@
+{"nodes":[{"id":"src/routes/sections/screens/Mobile.jsx","label":"Mobile","routes":["/mobile"],"type":"screen"},{"id":"src/screens/LandingPage/LandingPage.jsx","label":"LandingPage","routes":["/desktop"],"type":"screen","dataModelId":"0:3"}],"edges":[]}
